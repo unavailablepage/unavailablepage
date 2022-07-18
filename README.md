@@ -41,15 +41,6 @@ Created by Pixel perfect - Flaticon
 
 🎨 Hobbies - Reading comics. Watching movies. Watching tech reviews.
 
-
-<h2>Current Projects</h2>
-
-🤖 Discord TTS Bot
-
-🔐 Password Manager
-
-👩‍💻 Personal Website
-
 ---
 
 <h3>Thanks for taking the time to check out my profile.</h3>
