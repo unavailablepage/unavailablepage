@@ -31,7 +31,7 @@ Created by Pixel perfect - Flaticon
 
 ![Email Icon](https://github.com/unavailablepage/unavailablepage/blob/main/icons/gmail.png)&nbsp;&nbsp;&nbsp;Email - <tendencia.nicole@gmail.com>
 
-![Discord Icon](https://github.com/unavailablepage/unavailablepage/blob/main/icons/discord.png)&nbsp;&nbsp;&nbsp;Discord - unavailablepage#8424
+![Discord Icon](https://github.com/unavailablepage/unavailablepage/blob/main/icons/discord.png)&nbsp;&nbsp;&nbsp;Discord - unavailablepage
 
 <h2>About Me</h2>
 
