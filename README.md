@@ -39,7 +39,7 @@ Created by Pixel perfect - Flaticon
 
 🔥 Interests - Networking. InfoSec. General IT.
 
-🎨 Hobbies - Reading comics. Watching movies. Watching tech reviews.
+🎨 Hobbies - Reading comics. Watching YouTube. Playing games.
 
 ---
 
